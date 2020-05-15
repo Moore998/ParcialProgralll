@@ -1,0 +1,9 @@
+Aplicacion desarrollada con Spring Security + Thymeleaf (Como parte de las vistas)
+
+Admin
+Usuario: admin
+contraseña: 123
+
+User
+Usuario: usuario
+contraseña: 123
